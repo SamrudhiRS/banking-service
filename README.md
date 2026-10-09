@@ -1,3 +1,4 @@
+Copyright (c) 2026 Samrudhi Shirbhate. All rights reserved.
 # Banking Service
 
 A REST API for a simple banking domain, built with **Java 17, Spring Boot 3, Spring Data JPA (Hibernate), Spring Security and OpenAPI/Swagger**.
